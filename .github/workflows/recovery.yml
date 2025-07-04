@@ -14,7 +14,7 @@ on:
 
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni -b twrp-10.0-deprecated
-  DEVICE: KD7
+  DEVICE: Infinix-X680B
   DT_LINK: https://github.com/RyzzXCODING/twrp_x680b-unofficial
   DT_PATH: device/infinix/Infinix-X680B
   TARGET: recoveryimage
